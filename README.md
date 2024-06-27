@@ -1,6 +1,4 @@
 ## Hi there 👋
-<iframe src="https://giphy.com/embed/HeryI8LztvnCU" width="244" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/alec-mackenzie-badblueprints-HeryI8LztvnCU">via GIPHY</a></p>
-<!--
 **niopica/niopica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
