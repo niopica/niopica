@@ -4,4 +4,3 @@ My stack:
 - 🌐 TypeScript, JavaScript
 - 🛠️ Vite, Webpack
 - 🖍  SCSS/Sass, CSS Modules
--->
